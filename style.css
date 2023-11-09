@@ -7,3 +7,11 @@ header,b {border: solid 1px;
 
 div.First {color: brown;}
 
+ul li {color: blue;}
+
+.first {border: solid 1px;
+}
+
+div > ul {border: solid 1px;}
+
+li.first ~ li {background-color: black}
